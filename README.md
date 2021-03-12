@@ -23,7 +23,10 @@ List a link of reactions on a Github issue page
 
 ## Not Working Any More?
 
-Try to do a git pull to see if it has been fixed (**DO NOT FORGET go into your extensions and reload the lasted version**).
+Perhaps it has been fixed already, so before submitting an issue, try:
+
+1. `git pull`
+2. Go into your extensions settings and press reload on the extension
 
 ---
 
